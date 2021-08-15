@@ -41,8 +41,8 @@ a {
 	align-self: center;
 }
 .welcome a:hover {
-	background-color: #148F77;
-	color: #fff;
+	color: #148F77;
+	padding-bottom: 32px;
 }
 
 .medsos {
@@ -54,6 +54,7 @@ a {
 .medsos a:hover {
 	background-color: #148F77;
 	border-color: #148F77;
+	border-radius: 50%;
 }
 
 .flex-container {
